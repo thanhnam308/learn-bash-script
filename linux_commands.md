@@ -7,7 +7,7 @@
 
 ## Linux User Commands
 |<div style="text-align:center">Command</div>|<div style="text-align:center">Description</div>|
-|:-|-|
+|:-:|-|
 |`cat /etc/passwd`|List user (NEED TO ASK HOW)|
 |`sudo adduser "username"`|Create a user with name "username"|
 |`sudo passwd username`|Set password for user "username"|
