@@ -27,7 +27,7 @@ We can `cd` to any of dirs below from anywhere.
     └── tmp
 ```
 
-|<p style="text-align:center">Directory name</p>|<p style="text-align:center">Description</p>|
+|<div style="text-align:center">Directory name</div>|<div style="text-align:center">Description</div>|
 |:-:|-|
 |`/`|This is the top level directory.<br>Parent dir for all other dirs.<br>Called as ROOT directory.<br>Represented by forward slash (/).<br>It's equivalent to `C:\` in Windows.|
 |`/root`|This is home directory for root user (super user).<br>Provides working evironment for root user.<br>It's equivalent to `C:\Documents and Settings\Administrator` in Windows.|
