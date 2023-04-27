@@ -26,7 +26,7 @@ We can `cd` to any of dirs below from anywhere.
     ├── spool
     └── tmp
 ```
-
+Details of some remarkables directories:
 |<div style="text-align:center">Directory name</div>|<div style="text-align:center">Description</div>|
 |:-:|-|
 |`/`|This is the top level directory.<br>Parent dir for all other dirs.<br>Called as ROOT directory.<br>Represented by forward slash (/).<br>It's equivalent to `C:\` in Windows.|
